@@ -6,7 +6,7 @@ body {
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
-  font-family: "Arvo", segoe UI;
+  font-family: "Arvo", segoe UI, serif;
   text-shadow: 3px 0 #0affce;
 
 }
